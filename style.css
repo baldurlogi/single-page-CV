@@ -1,0 +1,40 @@
+body {
+  font-family: Arial, sans-serif;
+  margin: 2rem;
+  line-height: 1.6;
+  color: #222;
+}
+
+.container {
+  margin: auto;
+}
+
+hr {
+  border: none;
+  border-top: 2px solid #333;
+  margin-bottom: 2rem;
+}
+
+h1 {
+  font-size: 2rem;
+  margin: 0;
+}
+
+.subtitle {
+  color: #2e8b57; /* soft green */
+  font-weight: normal;
+  margin-top: 0.2rem;
+}
+
+.section {
+  color: #2e8b57;
+}
+
+.highlight {
+  color: #1a73e8; /* blue */
+}
+
+a {
+  color: #222;
+  text-decoration: none;
+}
